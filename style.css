@@ -1,0 +1,60 @@
+body {
+  font-family: "Lato", sans-serif;
+  background-color: #fcf9f4;
+}
+.container {
+  max-width: 800px;
+}
+form {
+  padding: 80px 40px !important;
+  margin-top: 120px;
+  background-color: #f6eee0;
+  border-radius: 12px;
+  border: 2px solid #a45c40;
+}
+h2 {
+  margin-bottom: 20px;
+  font-weight: 700;
+  color: #a45c40;
+}
+.form-label {
+  font-weight: 400;
+  margin-bottom: 10px;
+  color: #a45c40;
+}
+
+.btn {
+  background-color: #a45c40;
+  border-color: #a45c40;
+}
+
+.form-control {
+  border-color: #a45c40;
+}
+
+.progress-stacked {
+  margin: 10px 40px auto auto;
+  height: 1.5rem !important;
+}
+
+.progress-stacked > .progress > .progress-bar {
+  height: 1.5rem !important;
+  font-size: 14px;
+  font-weight: 700;
+}
+.message-wrapper {
+  margin: 20px auto;
+}
+h3 {
+  font-size: 24px;
+  color: #a45c40;
+  font-weight: 700;
+  margin-top: 40px;
+  margin-bottom: 10px;
+}
+.list-group-item {
+}
+.logo img {
+  width: 48px;
+  margin-bottom: 10px;
+}
